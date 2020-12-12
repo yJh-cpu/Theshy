@@ -1,0 +1,14 @@
+﻿生成启动时间为 2020/11/13 13:18:44。
+     1>项目“C:\Users\lenovo\Documents\Visual Studio 2013\Projects\扫雷\Project1\Project1\Project1.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\VS\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "源.cpp"
+         源.cpp
+     1>c:\users\lenovo\documents\visual studio 2013\projects\扫雷\project1\project1\源.cpp(1): error C2143: 语法错误 : 缺少“;”(在“<”的前面)
+     1>c:\users\lenovo\documents\visual studio 2013\projects\扫雷\project1\project1\源.cpp(1): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>c:\users\lenovo\documents\visual studio 2013\projects\扫雷\project1\project1\源.cpp(3): error C2143: 语法错误 : 缺少“;”(在“{”的前面)
+     1>c:\users\lenovo\documents\visual studio 2013\projects\扫雷\project1\project1\源.cpp(3): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+     1>已完成生成项目“C:\Users\lenovo\Documents\Visual Studio 2013\Projects\扫雷\Project1\Project1\Project1.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.83
